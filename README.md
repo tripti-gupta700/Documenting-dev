@@ -13,7 +13,7 @@
  
 ### From Zero to 10+ LPA | Daily Log | 6 Month Grind
  
-[![Journey Started](https://img.shields.io/badge/Journey%20Started-April%202025-blueviolet?style=for-the-badge)]()
+[![Journey Started](https://img.shields.io/badge/Journey%20Started-April%202026-blueviolet?style=for-the-badge)]()
 [![Target](https://img.shields.io/badge/Target-10%2B%20LPA-success?style=for-the-badge)]()
 [![DSA Problems](https://img.shields.io/badge/DSA%20Solved-0%2F200+-orange?style=for-the-badge)](https://github.com/tripti-gupta700/DSAPartnerChallenge)
 [![Current Phase](https://img.shields.io/badge/Current%20Phase-1%20%E2%80%94%20Frontend-blue?style=for-the-badge)]()
