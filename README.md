@@ -310,8 +310,8 @@ If this helps even one person stay consistent — it's worth it.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tripti-gupta-1226a129a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/triptigupta_05/)
-[![Instagram](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/tripti.builds/)
-[![Whatsapp](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6rp9QD8SDrp8zTGm3a) 
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/tripti.builds/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6rp9QD8SDrp8zTGm3a) 
 ---
  
 <div align="center">
